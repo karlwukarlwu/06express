@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:09:20.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="TTC_vIvPF8Bjttl50wxL" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T23:43:01.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="0ZxLZX-PJShOG9ZCw6OC" version="22.0.8" type="github">
   <diagram name="Page-1" id="soIrHBEtLX5w9lc7Hw6Y">
     <mxGraphModel dx="2284" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="510" y="40" width="280" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kOco0NtQo6F_7J6Y6AoB-11" value="自定义一个注解component-scan&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;1.可以在这个注解上加入要给value&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2.这个value可以指定要扫描的包&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;3. 作用类似component-scan&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="820" y="285" width="200" height="160" as="geometry" />
+          <mxGeometry x="820" y="290" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kOco0NtQo6F_7J6Y6AoB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOco0NtQo6F_7J6Y6AoB-12" target="kOco0NtQo6F_7J6Y6AoB-11">
           <mxGeometry relative="1" as="geometry" />
